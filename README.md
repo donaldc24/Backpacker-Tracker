@@ -1,5 +1,6 @@
 # Backpacker-Tracker
-Com S 227 Fall 2020 Assignment 1 100 points Due Date: Friday, September 11, 11:59 pm (midnight) 5% bonus for submitting 1 day early (by 11:59 pm Sept 10) 10% penalty for submitting 1 day late (by 11:59 pm Sept 12) No submissions accepted after September 12, 11:59 pm 
+
+#Com S 227 Fall 2020 Assignment 1 100 points Due Date: Friday, September 11, 11:59 pm (midnight) 5% bonus for submitting 1 day early (by 11:59 pm Sept 10) 10% penalty for submitting 1 day late (by 11:59 pm Sept 12) No submissions accepted after September 12, 11:59 pm 
  
 General information 
  
